@@ -16,6 +16,8 @@ body {
 }
 h1{
 color :teal;
+width: 100%;
+text-align: center;
 }
 .container {
     display: flex;
@@ -50,7 +52,7 @@ h2 {
 }
 
 #florida {
-    background-color: #03a9f4;
+    background-color: green;
 }
 
 #paris {
